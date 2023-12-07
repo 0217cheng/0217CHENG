@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning STASTISTIC
 <!--
 **0217cheng/0217CHENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
